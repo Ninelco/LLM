@@ -74,3 +74,53 @@ def gen_batches_train():
 
 
 print(next(gen_batches_train()))
+
+device_map = {"": 0}
+model = AutoModelForCausalLM.from_pretrained(
+        MODEL_NAME,
+        device_map=device_map,
+        torch_dtype=torch.bfloat16,
+    )
+
+peft_config = LoraConfig(
+        lora_alpha=32,
+        lora_dropout=0.1,
+        r=8,
+        bias="none",
+        task_type=TaskType.CAUSAL_LM,
+        target_modules=["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
+    )
+
+
+training_arguments = TrainingArguments(
+    output_dir='./tune_results',
+    per_device_train_batch_size=8,
+    gradient_accumulation_steps=8,
+    optim="adamw_torch",
+    save_steps=100,
+    logging_steps=5,
+    learning_rate=3e-4,
+    fp16=False,
+    bf16=True,
+    num_train_epochs=1,
+    report_to="none"
+)
+
+train_gen = Dataset.from_generator(gen_batches_train)
+tokenizer.padding_side = "right"
+
+trainer = SFTTrainer(
+    model=model,
+    train_dataset=train_gen,
+    peft_config=peft_config,
+    dataset_text_field="text",
+    max_seq_length=1024,
+    tokenizer=tokenizer,
+    args=training_arguments,
+)
+
+trainer.train()
+
+peft_model_id="./llama_lora2"
+trainer.model.save_pretrained(peft_model_id)
+tokenizer.save_pretrained(peft_model_id)
