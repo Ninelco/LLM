@@ -78,7 +78,7 @@ print(next(gen_batches_train()))
 device_map = {"": 0}
 model = AutoModelForCausalLM.from_pretrained(
         MODEL_NAME,
-        device_map=device_map,
+        device_map="auto",
         torch_dtype=torch.bfloat16,
     )
 
@@ -97,7 +97,7 @@ training_arguments = TrainingArguments(
     per_device_train_batch_size=8,
     gradient_accumulation_steps=8,
     optim="adamw_torch",
-    save_steps=100,
+    save_steps=10,
     logging_steps=5,
     learning_rate=3e-4,
     fp16=False,
