@@ -1,7 +1,12 @@
 from datasets import Dataset
 import pandas as pd
-from transformers import AutoTokenizer, AutoModelForCausalLM, DataCollatorForSeq2Seq, TrainingArguments, Trainer, GenerationConfig
+from transformers import AutoTokenizer, AutoModelForCausalLM, DataCollatorForSeq2Seq, TrainingArguments, Trainer, \
+    GenerationConfig
 import torch
+import transformers
+from peft import LoraConfig, TaskType, get_peft_model
+
+from trl import SFTTrainer
 
 print(torch.cuda.is_available())
 print(torch.cuda.current_device())
