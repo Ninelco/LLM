@@ -1,0 +1,3 @@
+FineTuned Llama 3 8B Model have Loss: 0.8096237981319427
+Baseline Llama 3 8B Model have Loss: 3.680048694610596
+Baseline Llama 3 70B Model have Loss: 3.178109176158905
