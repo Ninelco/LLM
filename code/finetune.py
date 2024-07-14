@@ -73,4 +73,4 @@ def gen_batches_train():
         yield {'text': formatted_prompt}
 
 
-next(gen_batches_train())
+print(next(gen_batches_train()))
