@@ -93,7 +93,7 @@ peft_config = LoraConfig(
 
 
 training_arguments = TrainingArguments(
-    output_dir='./tune_results',
+    output_dir='/home/ninelcozaurus/project/results/tune_results',
     per_device_train_batch_size=8,
     gradient_accumulation_steps=8,
     optim="adamw_torch",
@@ -121,6 +121,6 @@ trainer = SFTTrainer(
 
 trainer.train()
 
-peft_model_id="./llama_lora2"
+peft_model_id="/home/ninelcozaurus/project/results/llama_lora2"
 trainer.model.save_pretrained(peft_model_id)
 tokenizer.save_pretrained(peft_model_id)
