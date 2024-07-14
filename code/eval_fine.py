@@ -78,7 +78,7 @@ eval_dataset = ds.select(range(100))
 # Compute loss for each model
 fine_tuned_model_loss = compute_loss_with_prompt(fine_tuned_model, fine_tuned_tokenizer, eval_dataset)
 
-with open("/home/ninelcozaurus/project/results/loss.txt", 'a') as f:
+with open("/home/ninelcozaurus/project/results/loss.txt", 'w') as f:
     f.write(f"FineTuned Llama 3 8B Model have Loss: {fine_tuned_model_loss}" + '\n')
 
 print(f"FineTuned Llama 3 8B Model have Loss: {fine_tuned_model_loss}")
