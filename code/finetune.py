@@ -102,7 +102,7 @@ training_arguments = TrainingArguments(
     learning_rate=3e-4,
     fp16=False,
     bf16=True,
-    num_train_epochs=1,
+    num_train_epochs=3,
     report_to="none"
 )
 
