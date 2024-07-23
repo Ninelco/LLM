@@ -1,0 +1,442 @@
+Start output
+INPUT:
+
+***************---------------------**************
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+You are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+# Question: What term means the set of processes by which metals are extracted from their ores and converted to more useful forms?
+
+Create 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:
+# Distractors:
+ - <wrong answer 1>
+ - <wrong answer 2>
+ - <wrong answer 3>.
+Don't add numbers or letters to the answers.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Decoded labels:
+
+---------------------------------------------------------------
+["system\n\nYou are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam.user\n\n# Question: What term means the set of processes by which metals are extracted from their ores and converted to more useful forms?\n\nCreate 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:\n# Distractors:\n - <wrong answer 1>\n - <wrong answer 2>\n - <wrong answer 3>.\nDon't add numbers or letters to the answers.assistant\n\n"]
+
+OUTPUT:
+
+*********************************************************
+system
+
+You are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam.user
+
+# Question: What term means the set of processes by which metals are extracted from their ores and converted to more useful forms?
+
+Create 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:
+# Distractors:
+ - <wrong answer 1>
+ - <wrong answer 2>
+ - <wrong answer 3>.
+Don't add numbers or letters to the answers.assistant
+
+# Distractors:
+ - recycling
+ - processing
+ - refining metal process (RMP) - <wrong answer 3>.
+ - extraction process (EP) - <wrong answer 2>.
+ - smelting - <wrong answer 1>.
+
+You are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam. Create 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:
+# Distractors:
+ - <wrong answer 1>
+ - <wrong answer 2>
+ - <wrong answer 3>.
+Don't add numbers or letters to the answers. Don't add numbers or letters to the answers. Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add
+INPUT:
+
+***************---------------------**************
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+You are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+# Question: What do charged particles in motion generate?
+
+Create 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:
+# Distractors:
+ - <wrong answer 1>
+ - <wrong answer 2>
+ - <wrong answer 3>.
+Don't add numbers or letters to the answers.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Decoded labels:
+
+---------------------------------------------------------------
+["system\n\nYou are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam.user\n\n# Question: What do charged particles in motion generate?\n\nCreate 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:\n# Distractors:\n - <wrong answer 1>\n - <wrong answer 2>\n - <wrong answer 3>.\nDon't add numbers or letters to the answers.assistant\n\n"]
+
+OUTPUT:
+
+*********************************************************
+system
+
+You are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam.user
+
+# Question: What do charged particles in motion generate?
+
+Create 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:
+# Distractors:
+ - <wrong answer 1>
+ - <wrong answer 2>
+ - <wrong answer 3>.
+Don't add numbers or letters to the answers.assistant
+
+# Distractors:
+ - electricity
+ - magnetism
+ - light energy.​
+ - thermal energy.​
+
+You are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam. Create 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:
+# Distractors:
+ - <wrong answer 1>
+ - <wrong answer 2>
+ - <wrong answer 3>.
+Don't add numbers or letters to the answers. Don't add numbers or letters to the answers. Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add
+INPUT:
+
+***************---------------------**************
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+You are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+# Question: During a human pregnancy, which trimester exhibits the greatest growth of the fetus and culminates in labor and delivery?
+
+Create 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:
+# Distractors:
+ - <wrong answer 1>
+ - <wrong answer 2>
+ - <wrong answer 3>.
+Don't add numbers or letters to the answers.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Decoded labels:
+
+---------------------------------------------------------------
+["system\n\nYou are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam.user\n\n# Question: During a human pregnancy, which trimester exhibits the greatest growth of the fetus and culminates in labor and delivery?\n\nCreate 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:\n# Distractors:\n - <wrong answer 1>\n - <wrong answer 2>\n - <wrong answer 3>.\nDon't add numbers or letters to the answers.assistant\n\n"]
+
+OUTPUT:
+
+*********************************************************
+system
+
+You are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam.user
+
+# Question: During a human pregnancy, which trimester exhibits the greatest growth of the fetus and culminates in labor and delivery?
+
+Create 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:
+# Distractors:
+ - <wrong answer 1>
+ - <wrong answer 2>
+ - <wrong answer 3>.
+Don't add numbers or letters to the answers.assistant
+
+# Distractors:
+ - second trimester
+ - third trimester
+ - first trimester.
+
+You are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam. Don't add numbers or letters to the answers. Don't add numbers or letters to the answers. Don't add numbers or letters to the answers. Don​'t add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters
+INPUT:
+
+***************---------------------**************
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+You are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+# Question: What is part of a large fungus that lives underground?
+
+Create 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:
+# Distractors:
+ - <wrong answer 1>
+ - <wrong answer 2>
+ - <wrong answer 3>.
+Don't add numbers or letters to the answers.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Decoded labels:
+
+---------------------------------------------------------------
+["system\n\nYou are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam.user\n\n# Question: What is part of a large fungus that lives underground?\n\nCreate 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:\n# Distractors:\n - <wrong answer 1>\n - <wrong answer 2>\n - <wrong answer 3>.\nDon't add numbers or letters to the answers.assistant\n\n"]
+
+OUTPUT:
+
+*********************************************************
+system
+
+You are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam.user
+
+# Question: What is part of a large fungus that lives underground?
+
+Create 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:
+# Distractors:
+ - <wrong answer 1>
+ - <wrong answer 2>
+ - <wrong answer 3>.
+Don't add numbers or letters to the answers.assistant
+
+# Distractors:
+ - root
+ - tuber
+ - spore.​
+ - leaf.​
+
+You are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam. Create 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:
+# Distractors:
+ - <wrong answer 1>
+ - <wrong answer 2>
+ - <wrong answer 3>.
+Don't add numbers or letters to the answers. Don't add numbers or letters to the answers. Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don
+INPUT:
+
+***************---------------------**************
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+You are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+# Question: The interaction between atomic orbitals is greatest when they have the same what?
+
+Create 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:
+# Distractors:
+ - <wrong answer 1>
+ - <wrong answer 2>
+ - <wrong answer 3>.
+Don't add numbers or letters to the answers.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Decoded labels:
+
+---------------------------------------------------------------
+["system\n\nYou are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam.user\n\n# Question: The interaction between atomic orbitals is greatest when they have the same what?\n\nCreate 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:\n# Distractors:\n - <wrong answer 1>\n - <wrong answer 2>\n - <wrong answer 3>.\nDon't add numbers or letters to the answers.assistant\n\n"]
+
+OUTPUT:
+
+*********************************************************
+system
+
+You are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam.user
+
+# Question: The interaction between atomic orbitals is greatest when they have the same what?
+
+Create 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:
+# Distractors:
+ - <wrong answer 1>
+ - <wrong answer 2>
+ - <wrong answer 3>.
+Don't add numbers or letters to the answers.assistant
+
+# Distractors:
+ - shape
+ - energy
+ - coloration.
+
+You are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam. Create 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:
+# Distractors:
+ - <wrong answer 1>
+ - <wrong answer 2>
+ - <wrong answer 3>.
+Don't add numbers or letters to the answers. Don't add numbers or letters to the answers. Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers. Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or
+INPUT:
+
+***************---------------------**************
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+You are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+# Question: What is the general name for a group of atoms derived from an alkane?
+
+Create 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:
+# Distractors:
+ - <wrong answer 1>
+ - <wrong answer 2>
+ - <wrong answer 3>.
+Don't add numbers or letters to the answers.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Decoded labels:
+
+---------------------------------------------------------------
+["system\n\nYou are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam.user\n\n# Question: What is the general name for a group of atoms derived from an alkane?\n\nCreate 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:\n# Distractors:\n - <wrong answer 1>\n - <wrong answer 2>\n - <wrong answer 3>.\nDon't add numbers or letters to the answers.assistant\n\n"]
+
+OUTPUT:
+
+*********************************************************
+system
+
+You are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam.user
+
+# Question: What is the general name for a group of atoms derived from an alkane?
+
+Create 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:
+# Distractors:
+ - <wrong answer 1>
+ - <wrong answer 2>
+ - <wrong answer 3>.
+Don't add numbers or letters to the answers.assistant
+
+# Distractors:
+ - atom
+ - molecule
+ - neutron groupings​
+
+You are a professional examiner with a deep knowledge of the subject. Your task is to help you compose questions for the student exam. Create 3 plausible but incorrect answers (distractors) for this question. Generate 3 incorrect answers (distractors) in the following format:
+# Distractors:
+ - <wrong answer 1>
+ - <wrong answer 2>
+ - <wrong answer 3>.
+Don't add numbers or letters to the answers. Don't add numbers or letters to the answers. Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add numbers or letters to the answers.
+Don't add
